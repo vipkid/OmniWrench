@@ -1,0 +1,5 @@
+[General]
+Port=9927
+Password=1Q2w3e4r
+Direct=0
+IP=104.224.155.220
